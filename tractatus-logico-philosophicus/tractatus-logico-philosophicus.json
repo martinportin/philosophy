@@ -1,0 +1,33 @@
+{
+  "title": "Tractatus logico-philosophicus",
+  "author": "Ludvig Wittgenstein",
+  "translator": "C.K. Odgen",
+  "release date": "October 22, 2010",
+  "source": "https://www.gutenberg.org/files/5740/5740-pdf.pdf",
+  "content": {
+    "propositions": [
+      {
+        "number": "1",
+        "proposition": "The world is everything that is the case.(*)"
+      },
+      {
+        "number": "1.1",
+        "proposition": "The world is the totality of facts, not of things."
+      },
+      {
+        "number": "1.11",
+        "proposition": "The world is determined by the facts, and by these being all the facts."
+      },
+      {
+        "number": "1.12",
+        "proposition": "For the totality of facts determines both what is the case, and also all that is not the case."
+      }
+    ],
+    "notes": [
+      {
+        "number": "*",
+        "note": "The decimal figures as numbers of the separate propositions indicate the logical importance of the propositions, the emphasis laid upon them in my exposition. The propositions n.1, n.2, n.3, etc., are comments on proposition No. n; the propositions n.m1, n.m2, etc., are comments on the proposition No. n.m; and so on."
+      }
+    ]
+  }
+}

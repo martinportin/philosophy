@@ -57,7 +57,19 @@
       },
       {
         "number": "2.0122",
-        "proposition": "The thing is independent, in so far as it can occur in all pos- sible circumstances, but this form of independence is a form of connexion with the atomic fact, a form of dependence. (It is impossible for words to occur in two different ways, alone and in the proposition.)"
+        "proposition": "The thing is independent, in so far as it can occur in all possible circumstances, but this form of independence is a form of connexion with the atomic fact, a form of dependence. (It is impossible for words to occur in two different ways, alone and in the proposition.)"
+      },
+      {
+        "number": "2.0123",
+        "proposition": "If I know an object, then I also know all the possibilities of its occurrence in atomic facts. (Every such possibility must lie in the nature of the object.) A new possibility cannot subsequently be found."
+      },
+      {
+        "number": "2.01231",
+        "proposition": "In order to know an object, I must know not its external but all its internal qualities."
+      },
+      {
+        "number": "2.0124",
+        "proposition": "If all objects are given, then thereby are all possible atomic facts also given."
       }
     ],
     "notes": [

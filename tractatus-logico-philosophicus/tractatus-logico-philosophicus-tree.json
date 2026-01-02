@@ -8,34 +8,34 @@
     "propositions": [
       {
         "number": "1",
-        "proposition": "The world is everything that is the case.*",
+        "statement": "The world is everything that is the case.*",
         "notes": ["*"],
         "propositions": [
           {
             "number": "1.1",
-            "proposition": "The world is the totality of facts, not of things.",
+            "statement": "The world is the totality of facts, not of things.",
             "propositions": [
               {
                 "number": "1.11",
-                "proposition": "The world is determined by the facts, and by these being all the facts."
+                "statement": "The world is determined by the facts, and by these being all the facts."
               },
               {
                 "number": "1.12",
-                "proposition": "For the totality of facts determines both what is the case, and also all that is not the case."
+                "statement": "For the totality of facts determines both what is the case, and also all that is not the case."
               },
               {
                 "number": "1.13",
-                "proposition": "The facts in logical space are the world."
+                "statement": "The facts in logical space are the world."
               }
             ]
           },
           {
             "number": "1.2",
-            "proposition": "The world divides into facts.",
+            "statement": "The world divides into facts.",
             "propositions": [
               {
                 "number": "1.21",
-                "proposition": "Any one can either be the case or not be the case, and everything else remain the same."
+                "statement": "Any one can either be the case or not be the case, and everything else remain the same."
               }
             ]
           }
@@ -43,23 +43,23 @@
       },
       {
         "number": "2",
-        "proposition": "What is the case, the fact, is the existence of atomic facts.",
+        "statement": "What is the case, the fact, is the existence of atomic facts.",
         "propositions": [
           {
             "number": "2.01",
-            "proposition": "An atomic fact is a combination of objects (entities, things).",
+            "statement": "An atomic fact is a combination of objects (entities, things).",
             "propositions": [
               {
                 "number": "2.011",
-                "proposition": "It is essential to a thing that it can be a constituent part of an atomic fact."
+                "statement": "It is essential to a thing that it can be a constituent part of an atomic fact."
               },
               {
                 "number": "2.012",
-                "proposition": "In logic nothing is accidental: if a thing can occur in an atomic fact the possibility of that atomic fact must already be prejudged in the thing.",
+                "statement": "In logic nothing is accidental: if a thing can occur in an atomic fact the possibility of that atomic fact must already be prejudged in the thing.",
                 "propositions": [
                   {
                     "number": "2.0121",
-                    "proposition": "It would, so to speak, appear as an accident, when to a thing that could exist alone on its own account, subsequently a state of affairs could be made to fit. If things can occur in atomic facts, this possibility must already lie in them."
+                    "statement": "It would, so to speak, appear as an accident, when to a thing that could exist alone on its own account, subsequently a state of affairs could be made to fit. If things can occur in atomic facts, this possibility must already lie in them."
                   }
                 ]
               }

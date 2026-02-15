@@ -147,7 +147,7 @@
                     "propositions": [
                       {
                         "number": "2.02331",
-                        "statement": "Either a thing has properties which no other has, and then one can distinguish it straight away from the others by a description and refer to it; or, on the other hand, there are several things which have the totality of their properties in common, and then it is quite impossible to point to any one of them. <br>For if a thing is not distinguished by anything, I cannot distinguish it&mdash;for otherwise it would be distinguished."
+                        "statement": "Either a thing has properties which no other has, and then one can distinguish it straight away from the others by a description and refer to it; or, on the other hand, there are several things which have the totality of their properties in common, and then it is quite impossible to point to any one of them.  <br>For if a thing is not distinguished by anything, I cannot distinguish it&mdash;for otherwise it would be distinguished."
                       }
                     ]
                   }
@@ -206,6 +206,154 @@
               {
                 "number": "2.034",
                 "statement": "The structure of the fact consists of the structures of the atomic facts."
+              }
+            ]
+          },
+          {
+            "number": "2.04",
+            "statement": "The totality of existent atomic facts is the world."
+          },
+          {
+            "number": "2.05",
+            "statement": "The totality of existent atomic facts also determines which atomic facts do not exist."
+          },
+          {
+            "number": "2.06",
+            "statement": "The existence and non-existence of atomic facts is the reality.  <br>(The existence of atomic facts we also call a positive fact, their non-existence a negative fact.)",
+            "propositions": [
+              {
+                "number": "2.061",
+                "statement": "Atomic facts are independent of one another."
+              },
+              {
+                "number": "2.062",
+                "statement": "From the existence or non-existence of an atomic fact we cannot infer the existence or non-existence of another."
+              },
+              {
+                "number": "2.063",
+                "statement": "The total reality is the world."
+              }
+            ]
+          },
+          {
+            "number": "2.1",
+            "statement": "We make to ourselves pictures of facts.",
+            "propositions": [
+              {
+                "number": "2.11",
+                "statement": "The picture presents the facts in logical space, the existence and non-existence of atomic facts."
+              },
+              {
+                "number": "2.12",
+                "statement": "The picture is a model of reality."
+              },
+              {
+                "number": "2.13",
+                "statement": "To the objects correspond in the picture the elements of the picture.",
+                "propositions": [
+                  {
+                    "number": "2.131",
+                    "statement": "The elements of the picture stand, in the picture, for the objects."
+                  }
+                ]
+              },
+              {
+                "number": "2.14",
+                "statement": "The picture consists in the fact that its elements are combined with one another in a definite way.",
+                "propositions": [
+                  {
+                    "number": "2.141",
+                    "statement": "The picture is a fact."
+                  }
+                ]
+              },
+              {
+                "number": "2.15",
+                "statement": "That the elements of the picture are combined with one another in a definite way, represents that the things are so combined with one another.  <br>This connexion of the elements of the picture is called its structure, and the possibility of this structure is called the form of representation of the picture.",
+                "propositions": [
+                  {
+                    "number": "2.151",
+                    "statement": "The form of representation is the possibility that the things are combined with one another as are the elements of the picture.",
+                    "propositions": [
+                      {
+                        "number": "2.1511",
+                        "statement": "Thus the picture is linked with reality; it reaches up to it."
+                      },
+                      {
+                        "number": "2.1512",
+                        "statement": "It is like a scale applied to reality.",
+                        "propositions": [
+                          {
+                            "number": "2.15121",
+                            "statement": "Only the outermost points of the dividing lines <em>touch</em> the object to be measured."
+                          }
+                        ]
+                      },
+                      {
+                        "number": "2.1513",
+                        "statement": "According to this view the representing relation which makes it a picture, also belongs to the picture."
+                      },
+                      {
+                        "number": "2.1514",
+                        "statement": "The representing relation consists of the co-ordinations of the elements of the picture and the things."
+                      },
+                      {
+                        "number": "2.1515",
+                        "statement": "These co-ordinations are as it were the feelers of its elements with which the picture touches reality."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "number": "2.16",
+                "statement": "In order to be a picture a fact must have something in common with what it pictures.",
+                "propositions": [
+                  {
+                    "number": "2.161",
+                    "statement": "In the picture and the pictured there must be something identical in order that the one can be a picture of the other at all."
+                  }
+                ]
+              },
+              {
+                "number": "2.17",
+                "statement": "What the picture must have in common with reality in order to be able to represent it after its manner&mdash;rightly or falsely&mdash;is its form of representation.",
+                "propositions": [
+                  {
+                    "number": "2.171",
+                    "statement": "The picture can represent every reality whose form it has.  <br>The spatial picture, everything spatial, the coloured, everything coloured, etc."
+                  },
+                  {
+                    "number": "2.172",
+                    "statement": "The picture, however, cannot represent its form of representation; it shows it forth."
+                  },
+                  {
+                    "number": "2.173",
+                    "statement": "The picture represents its object from without (its standpoint is its form of representation), therefore the picture represents its object rightly or falsely."
+                  },
+                  {
+                    "number": "2.174",
+                    "statement": "But the picture cannot place itself outside of its form of representation."
+                  }
+                ]
+              },
+              {
+                "number": "2.18",
+                "statement": "What every picture, of whatever form, must have in common with reality in order to be able to represent it at all&mdash;rightly or falsely&mdash;is the logical form, that is, the form of reality.",
+                "propositions": [
+                  {
+                    "number": "2.181",
+                    "statement": "If the form of representation is the logical form, then the picture is called a logical picture."
+                  },
+                  {
+                    "number": "2.182",
+                    "statement": "Every picture is <em>also</em> a logical picture. (On the other hand, for example, not every picture is spatial.)"
+                  }
+                ]
+              },
+              {
+                "number": "2.19",
+                "statement": "The logical picture can depict the world."
               }
             ]
           }

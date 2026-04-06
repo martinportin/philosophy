@@ -356,6 +356,54 @@
                 "statement": "The logical picture can depict the world."
               }
             ]
+          },
+          {
+            "number": "2.2",
+            "statement": "The picture has the logical form of representation in common with what it pictures.",
+            "propositions": [
+              {
+                "numnber": "2.201",
+                "statement": "The picture depicts reality by representing a possibility of the existence and non-existence of atomic facts."
+              },
+              {
+                "numnber": "2.202",
+                "statement": "The picture represents a possible state of aairs in logical space."
+              },
+              {
+                "numnber": "2.203",
+                "statement": "The picture contains the possibility of the state of affairs which it represents."
+              }
+            ]
+          },
+          {
+            "number": "2.21",
+            "statement": "The picture agrees with reality or not; it is right or wrong, true or false."
+          },
+          {
+            "number": "2.22",
+            "statement": "The picture represents what it represents, independently of its truth or falsehood, through the form of representation.",
+            "propositions": [
+              {
+                "number": "2.221",
+                "statement": "What the picture represents is its sense."
+              },
+              {
+                "number": "2.222",
+                "statement": "In the agreement or disagreement of its sense with reality, its truth or falsity consists."
+              },
+              {
+                "number": "2.223",
+                "statement": "In order to discover whether the picture is true or false we must compare it with reality."
+              },
+              {
+                "number": "2.224",
+                "statement": "It cannot be discovered from the picture alone whether it is true or false."
+              },
+              {
+                "number": "2.225",
+                "statement": "There is no picture which is a priori true."
+              }
+            ]
           }
         ]
       }
